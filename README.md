@@ -7,5 +7,5 @@
 ## Install
 
 ```
-asdf plugin-add minio https://github.com/aeons/asdf-minio.git
+asdf plugin-add minio https://github.com/baysao/asdf-minio.git
 ```
